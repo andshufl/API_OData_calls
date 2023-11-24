@@ -1,0 +1,9 @@
+https://online4.superoffice.com/Cust29326/api/v1/Contact?$filter=name eq 'Martin Petersen'&$select=contactId
+
+https://online4.superoffice.com/Cust29326/api/v1/Sale
+
+https://online4.superoffice.com:443/Cust29326/api/v1/Sale/8667
+
+https://online4.superoffice.com/Cust29326/api/v1/Sale/8667?$select=UserDefinedFields
+
+https://online4.superoffice.com:443/Cust29326/api/v1/MDOList
