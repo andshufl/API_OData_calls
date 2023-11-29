@@ -1,0 +1,7 @@
+Kunden;I:129
+BKN;I:131
+FTO;I:130
+Lavabo;I:135
+Unitpartner;I:134
+Fragt;I:132
+&SHUFL;I:133

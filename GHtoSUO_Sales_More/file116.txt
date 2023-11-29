@@ -1,0 +1,6 @@
+Elm;I:159
+Eg;I:160
+Røget eg;I:161
+Sort;I:208
+Ask;I:209
+Core;I:210

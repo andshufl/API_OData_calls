@@ -1,0 +1,7 @@
+Linoleum;I:46
+Laminat;I:45
+Painted;I:47
+Wood;I:48
+Raw;I:49
+Bambus (arb.titel);I:118
+Fenix;I:189

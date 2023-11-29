@@ -1,0 +1,12 @@
+BKN;I:124
+Fairtrans;I:127
+Frontego;I:128
+Messengers;I:66
+Morsø Fragtservice;I:69
+Vendelbo;I:68
+Afhenter selv hos producent;I:70
+Afhenter selv hos Messengers;I:71
+Andet - se levering aftalt med kunde;I:72
+Interfjord;I:67
+DSV;I:145
+Unitpartner;I:174

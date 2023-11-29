@@ -1,0 +1,4 @@
+Fremvisning;I:163
+Online;I:164
+UA;I:162
+Ingen fremvisning ;I:165

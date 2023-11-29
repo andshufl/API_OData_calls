@@ -1,0 +1,25 @@
+Produktionskapacitet;"SuperOffice:1":
+Tegning;"SuperOffice:2":
+System 1;"SuperOffice:7":
+System 2;"SuperOffice:43":
+Kollektion 1;"SuperOffice:3":
+Farve 1;"SuperOffice:4":
+Kollektion 2;"SuperOffice:5":
+Farve 2;"SuperOffice:6":
+Kollektion 3;"SuperOffice:35":
+Farve 3;"SuperOffice:36":
+Greb;"SuperOffice:8":
+Trækanter kol 1;"SuperOffice:44":
+Trækanter kol 2;"SuperOffice:41":
+Træskuffer;"SuperOffice:18":
+Ekstern bordplade;"SuperOffice:9":
+Quooker;"SuperOffice:10":
+Vask;"SuperOffice:11":
+Andet;"SuperOffice:12":
+Plejemiddel;"SuperOffice:34":
+Træskuffetype;"SuperOffice:17":
+Antal skruepakker;"SuperOffice:21":
+&SHUFL fakturanummer;"SuperOffice:16":
+&SHUFL ordrenummer;"SuperOffice:15":
+Leverandør ordrenummer;"SuperOffice:14":
+Godkendt;"SuperOffice:13":

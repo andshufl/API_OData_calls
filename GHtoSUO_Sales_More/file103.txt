@@ -1,0 +1,39 @@
+BA Dark;I:119
+BA Light;I:120
+BA Middle;I:121
+LA Blaze Red;I:187
+LA China Blue;I:170
+LA Clementine;I:186
+LA Eldorado (udgået);I:169
+LA Fox;I:171
+LA Just Gold;I:185
+LA Just Rose;I:173
+LA New Magnolia (Udgået);I:168
+LA Opal;I:182
+LA Oyster grey;I:166
+LA Pale Gold;I:183
+LA Porcelana;I:188
+LA Tenere;I:184
+LA Teracotta;I:172
+LI Ash;I:111
+LI Charcoal;I:73
+LI Iron;I:167
+LI Mauve;I:117
+PA Flavin Pale Yellow;I:180
+PA Miami Lemon;I:136
+PA Miami Light Blue;I:148
+PA Miami Mint;I:147
+PA Miami Ocean;I:138
+PA Miami Peach;I:137
+PA Miami Sky;I:139
+PA Valadon Brown;I:146
+PA Whiteread Warm Grey;I:181
+SP Specialfarve;I:140
+FE Nero Ingo;I:198
+FE Blu Fes;I:199
+FE Grigio Londra;I:200
+FE Bianco Cos;I:201
+FE Castoro Ottawa;I:202
+FE Verde Comodoro;I:203
+FE Azzurro Naxos;I:204
+FE Grigio Efeso;I:205

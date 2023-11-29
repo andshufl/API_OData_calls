@@ -1,0 +1,7 @@
+Stål;I:115
+Malet - Brancusi White;I:151
+Malet - Hammershoi Light Grey;I:150
+Malet - Miami Lemon;I:155
+Malet - Miami Ocean;I:153
+Malet - Miami Peach;I:154
+Malet - Miami Sky;I:152

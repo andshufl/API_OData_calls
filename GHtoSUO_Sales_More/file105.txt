@@ -1,0 +1,5 @@
+&SHUFL;I:40
+&SHUFL IHP;I:41
+IKEA IHP;I:42
+Kundens egen tegning;I:43
+Ingen;I:44

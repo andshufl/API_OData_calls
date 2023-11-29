@@ -1,0 +1,10 @@
+Metod;I:11
+Godmorgon;I:10
+Pax;I:51
+Faktum;I:50
+Andet;I:52
+HTH;I:175
+Svane;I:176
+Kvik;I:177
+Designa;I:178
+Invita;I:179
