@@ -23,3 +23,9 @@ Antal skruepakker;"SuperOffice:21":
 &SHUFL ordrenummer;"SuperOffice:15":
 Leverandør ordrenummer;"SuperOffice:14":
 Godkendt;"SuperOffice:13":
+Fejl i ordre fra prod;"SuperOffice:40":
+Antal dele;"SuperOffice:27":
+Max dimensioner i ordren;"SuperOffice:28"
+Leveringsdato aftalt med kunden ved køb;"SuperOffice:19":
+Fremvisning;SuperOffice:42
+Greb indlæg;SuperOffice:45
